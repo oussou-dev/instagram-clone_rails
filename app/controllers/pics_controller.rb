@@ -10,7 +10,7 @@ class PicsController < ApplicationController
   end
 
   def new
-    @pic = current.user.pics.build
+    @pic = current_user.pics.build
   end
 
   def create
@@ -43,7 +43,7 @@ class PicsController < ApplicationController
   private
 
   def pic_params
-    params.require(:pic).permit(:title, :description)
+    params.require(:pic).permit(:title, :description, :image)
   end
 
   def find_pic
