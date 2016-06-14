@@ -7,7 +7,7 @@ An online mobile photo-sharing, video-sharing, and social networking service
 
 ##### Try OTAGRAM
 
-* Online  :  [hiptime-app](https://otagram.herokuapp.com)    
+* Online  :  [otagram](https://otagram.herokuapp.com)    
 
 * Locally :
     - Clone this repositoy on your desktop
