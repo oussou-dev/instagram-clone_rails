@@ -16,3 +16,8 @@ An online mobile photo-sharing, video-sharing, and social networking service
                         . rake db:migrate  
                         . rails s  
                         . localhost:3000  
+
+
+##### ScreenShot OTAGRAM
+
+* Index Page  :  [index_page](otagram_app/public/screenshot/index.png)  
