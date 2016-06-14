@@ -20,4 +20,4 @@ An online mobile photo-sharing, video-sharing, and social networking service
 
 ##### ScreenShot OTAGRAM
 
-* Index Page  :  [https://github.com/oussou-dev/instagram-clone_rails/blob/master/public/screenshot/index.png)  
+* Index Page  :  ![index_page](https://github.com/oussou-dev/instagram-clone_rails/blob/master/public/screenshot/index.png)  
