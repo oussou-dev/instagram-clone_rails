@@ -10,6 +10,10 @@ gem 'simple_form', '~> 3.2', '>= 3.2.1'
 
 gem 'paperclip', '~> 4.3', '>= 4.3.6'
 
+gem 'masonry-rails', '~> 0.2.4'
+
+
+
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.6'
